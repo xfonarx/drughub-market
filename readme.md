@@ -4,11 +4,11 @@ DrugHub is a new project launched in August 2023 by part of the old WHM (White H
 ## DrugHub Market Link:
 
 ```sh
-http://drughubcydvqcpbbky7nyaejrynpprsenq43rvksybefdlxfkrlgyrad.onion
+http://drughub7ksxhxu5m2tge3rvs7jlh4ng3g3hybeqhjoxxr2e7yqa4tyyd.onion
 ```
-[<img src="/assets/visit-market.webp" width="200">](http://drughubcydvqcpbbky7nyaejrynpprsenq43rvksybefdlxfkrlgyrad.onion)
+[<img src="/assets/visit-market.webp" width="200">](http://drughub7ksxhxu5m2tge3rvs7jlh4ng3g3hybeqhjoxxr2e7yqa4tyyd.onion)
 
-<a href="http://drughubcydvqcpbbky7nyaejrynpprsenq43rvksybefdlxfkrlgyrad.onion"><img src="/assets/drughub-preview.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://drughub7ksxhxu5m2tge3rvs7jlh4ng3g3hybeqhjoxxr2e7yqa4tyyd.onion"><img src="/assets/drughub-preview.webp" alt="image" style="max-width: 100%;"><a>
 
 This is a strictly scientific and educational repository, the purpose of which is to give an idea of the world of the darkweb. We do not collect any commissions/kickbacks from market affiliate links. We are not affiliated with any legal entity and do not support illegal activities.
 
@@ -19,4 +19,4 @@ DrugHub Market is the latest project from the team behind the legendary darknet 
 
 Drughub requires users to register using a PGP key instead of a username and password. It's really straightforward. All you have to do is paste in your public PGP key and then decrypt a code that we'll give you. If you don't have a PGP key, you can use our PGP tool to generate one. This will then create an account that can only be accessed using this key. To log in, just paste your public key and decrypt another code. It's basically the same as using 2FA, but with just one factor.
 
-<a href="http://drughubcydvqcpbbky7nyaejrynpprsenq43rvksybefdlxfkrlgyrad.onion"><img src="/assets/drughub-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://drughubcydvqcpbbky7nyaejrynpprsenq43rvksybefdlxfkrlgyrad.onion"><img src="/assets/drughub-register.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://drughub7ksxhxu5m2tge3rvs7jlh4ng3g3hybeqhjoxxr2e7yqa4tyyd.onion"><img src="/assets/drughub-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://drughub7ksxhxu5m2tge3rvs7jlh4ng3g3hybeqhjoxxr2e7yqa4tyyd.onion"><img src="/assets/drughub-register.webp" alt="image" style="max-width: 100%;"><a>
